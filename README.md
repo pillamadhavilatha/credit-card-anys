@@ -19,9 +19,7 @@ credit-card-fraud-detection/
 │
 ├── creditcardfraud.ipynb        # Main Jupyter Notebook (full pipeline)
 ├── README.md                    # Project documentation
-├── requirements.txt             # Python dependencies
-└── images/                      # (Optional) saved plot outputs
-```
+├── requirements.txt             # Python dependencie
 
 ---
 
