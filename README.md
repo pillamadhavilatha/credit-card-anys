@@ -170,7 +170,7 @@ This project demonstrates that machine learning — specifically a **Random Fore
 
 ## 🙋 Author
 
-**[Your Name]**
+**PILLA MADHAVI LATHA**
 Data Analyst Intern
 [LinkedIn](https://linkedin.com/in/yourprofile) • [GitHub](https://github.com/yourusername)
 
